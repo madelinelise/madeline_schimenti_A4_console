@@ -1,0 +1,6 @@
+c:\users\madeline_2\documents\visual studio 2013\Projects\madeline_schimenti_A4_console\madeline_schimenti_A4_console\bin\Debug\madeline_schimenti_A4_console.exe.config
+C:\Users\Madeline_2\documents\visual studio 2013\Projects\madeline_schimenti_A4_console\madeline_schimenti_A4_console\bin\Debug\madeline_schimenti_A4_console.exe
+C:\Users\Madeline_2\documents\visual studio 2013\Projects\madeline_schimenti_A4_console\madeline_schimenti_A4_console\bin\Debug\madeline_schimenti_A4_console.pdb
+C:\Users\Madeline_2\documents\visual studio 2013\Projects\madeline_schimenti_A4_console\madeline_schimenti_A4_console\obj\Debug\madeline_schimenti_A4_console.csprojResolveAssemblyReference.cache
+C:\Users\Madeline_2\documents\visual studio 2013\Projects\madeline_schimenti_A4_console\madeline_schimenti_A4_console\obj\Debug\madeline_schimenti_A4_console.exe
+C:\Users\Madeline_2\documents\visual studio 2013\Projects\madeline_schimenti_A4_console\madeline_schimenti_A4_console\obj\Debug\madeline_schimenti_A4_console.pdb
